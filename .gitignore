@@ -8,3 +8,6 @@ docs/g3doc/*
 docs/html/*
 docs/md/*
 docs/rst/*
+.DS_Store
+/.direnv
+.pre-commit-config.yaml
